@@ -1,2 +1,2 @@
-# Contro_Ejer6
+# Control_Ejer6
 Solution to Exercise 6
